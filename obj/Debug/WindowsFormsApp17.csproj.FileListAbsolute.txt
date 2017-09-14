@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form2.resources
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form3.resources
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form4.resources
